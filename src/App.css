@@ -1,12 +1,12 @@
 .App-header {
-  background-color: #f495fc;
-  min-height: 15vh;
+  background-color: #744b78;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
-  color: black;
+  color: white;
 }
 
 .hearts-container {
